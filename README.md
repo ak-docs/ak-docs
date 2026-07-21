@@ -1,16 +1,24 @@
-## Hi there 👋
+### 👋 Hi, I'm Ak
 
-<!--
-**ak-docs/ak-docs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm a **Technical Writer** passionate about Web3 & blockchain documentation.
+- 🌱 Currently learning: Crypto protocols, DeFi, Smart Contracts.
+- 👯 Open to: **Documentation bounties** and technical writing gigs.
+- 💬 Ask me about: Technical Writing, Crypto, Web3.
+- 📫 Reach me: watsonjelly1@gmail.com
+- ⚡ Fun fact: I turn complex tech into simple, readable guides.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My 2026 Goal
+- Complete 10+ documentation bounties.
+- Build a strong Web3 writing portfolio.
+
+---
+
+### 🛠️ My Tools
+`Markdown` `Git` `ChatGPT` `Notion` `Python` ` Antropic cloud`
+
+---
+
+### 📌 Featured Work
+*(Coming soon — I'll pin my best projects here)*
